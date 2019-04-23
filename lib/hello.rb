@@ -5,7 +5,7 @@ def hello_t(array)
   #  array.each {|name| puts name}
   # # array.cycle(1) {|x| puts x}
 
-  i = o
+  i = 0
   while i < array.length
     yield array[i]
     i += 1
