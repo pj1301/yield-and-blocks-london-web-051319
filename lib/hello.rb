@@ -1,4 +1,4 @@
-def hello_t(array, name)
+def hello_t(array )
   # if array.length = 0
   #   puts "Hey! No block was given!\n"
   # elsif array.length > 0
