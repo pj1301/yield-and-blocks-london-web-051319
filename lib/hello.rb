@@ -10,5 +10,3 @@ def hello_t(array)
   puts "Hey! No block was given!\n"
 end
 end
-
-def hello_t(array)
