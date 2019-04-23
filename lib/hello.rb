@@ -9,5 +9,6 @@ def hello_t(array)
   else
   puts "Hey! No block was given!\n"
 end
+end
 
 def hello_t(array)
