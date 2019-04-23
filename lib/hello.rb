@@ -1,5 +1,5 @@
-def hello_t(names)
-  
+def hello_t(array)
+  array
 end
 
 # call your method here!
